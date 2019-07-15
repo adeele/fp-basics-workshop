@@ -26,7 +26,7 @@ const animals = [
 /*
  * Task 1.3
  * Input: array of animals `animals`
- * Output: an object, where a key is species and a value is it's average age
+ * Output: an object, where a key is species and a value is sum of years for all animals in this species
  *
  * Please use `reduce` function
  */
